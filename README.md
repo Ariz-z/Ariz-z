@@ -36,7 +36,7 @@
 - **Platforms :** Windows and Linux
 - **Languages :** <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/LUA-%230175C2.svg?&style=for-the-badge&logo=lua&logoColor=white"/>, 
 
-- **Frameworks :** <img src="https://img.shields.io/badge/DISCORD.PY-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/FIVEM-orange.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+- **Frameworks :** <img src="https://img.shields.io/badge/DISCORDPYTHON-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/FIVEM-orange.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 
 
 <hr/>
