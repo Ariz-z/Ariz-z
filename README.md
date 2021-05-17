@@ -16,7 +16,7 @@
 <p align="left">
   <samp>
     <br><br>
-    - 🔭 I’m currently working on Discord Pokemon Bot
+    - 🔭 I’m currently working on Pokemon Bot (Discord)
     <br><br>
     - 🌱 I’m currently learning Python AI
     <br><br>
