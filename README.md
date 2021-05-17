@@ -7,7 +7,7 @@
 <h2 align="center">
     I'm
     <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
-    Osmium
+    Ariz
     <img alt="dev_cat" src="https://raw.githubusercontent.com/Ariz-z/Ariz-z/main/dev_cat.gif" width="50"> 
 </h2>
 
@@ -17,10 +17,15 @@
   <samp>
     <br><br>
     - 🔭 I’m currently working on Discord Pokemon Bot
+    <br><br>
     - 🌱 I’m currently learning Python AI
+    <br><br>
     - 🤔 I’m looking for help with MongoDB
+    <br><br>
     - 📫 How to reach me: Join my discord server which is [Pokemon Bot Discord](https://discord.gg/pokemonbot)
+    <br><br>
     - ⚡ Fun fact: I am still confused what i want to do. XD
+    <br><br>
   </samp>
 </p>
 
