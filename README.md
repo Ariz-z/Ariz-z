@@ -22,8 +22,6 @@
     <br><br>
     - 🤔 I’m looking for help with MongoDB
     <br><br>
-    - 📫 How to reach me: Join my discord server which is https://discord.gg/pokemonbot
-    <br><br>
     - ⚡ Fun fact: I am still confused what i want to do. XD
     <br><br>
   </samp>
@@ -53,7 +51,7 @@
 
 <p align="center">
 
-  <a href="https://discord.gg/jrNxkpVaJU">
+  <a href="https://discord.gg/pokemonbot">
     <img alt="Discord" width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Discord_Color_Text_Logo.svg/512px-Discord_Color_Text_Logo.svg.png"/>
      <br>
      <a href="https://github.com/Ariz-z">
