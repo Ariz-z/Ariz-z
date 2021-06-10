@@ -18,7 +18,7 @@
     <br><br>
     - 🔭 I’m currently working on Pokemon Bot (Discord)
     <br><br>
-    - 🌱 I’m currently learning Python AI
+    - 🌱 I’m currently learning ...
     <br><br>
     - 🤔 I’m looking for help with MongoDB
     <br><br>
