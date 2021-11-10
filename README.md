@@ -37,7 +37,7 @@
 <hr/>
 
 <p align="center">
-  <img align="center" alt="Ariz Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ariz-z &count_private=true&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Ariz Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ariz-z&show_icons=true"  />
 </p>
 
 <br/>
