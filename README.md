@@ -37,7 +37,7 @@
 <hr/>
 
 <p align="center">
-  <img align="center" alt="Ariz Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ariz-z&show_icons=true"  />
+  <img align="center" alt="Ariz Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ariz-z&show_icons=true&show_icons=true&theme=radical"  />
 </p>
 
 <br/>
