@@ -9,6 +9,8 @@
     <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
     Ariz
     <img alt="dev_cat" src="https://raw.githubusercontent.com/Ariz-z/Ariz-z/main/dev_cat.gif" width="50"> 
+    AKA Aakash Agrawal
+    <img alt="dev_cat" src="https://raw.githubusercontent.com/Ariz-z/Ariz-z/main/dev_cat.gif" width="50"> 
 </h2>
 
 <img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/Ariz-z/Ariz-z/main/workbench.svg"/>
