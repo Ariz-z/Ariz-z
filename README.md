@@ -37,7 +37,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/620898268326526976)](https://discord.com/users/620898268326526976)
 
-
 <hr/>
 
 <h2 align="center">About</h2>
