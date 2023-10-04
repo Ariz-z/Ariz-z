@@ -35,6 +35,9 @@
 <a href="https://discord.gg/pokemonbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pokemonbot" height="30" width="40" /></a>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/620898268326526976)](https://discord.com/users/620898268326526976)
+
+
 <hr/>
 
 <h2 align="center">About</h2>
