@@ -37,6 +37,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/620898268326526976)](https://discord.com/users/620898268326526976)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6668255e59bd70fae2ef2b2f?variant=dark&roadmaps=full-stack%2Cflutter)](https://roadmap.sh)
+
 <hr/>
 
 <h2 align="center">About</h2>
